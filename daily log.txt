@@ -1,0 +1,5 @@
+日期		时间	工作内容
+2015/3/23/ 	2.5	下载mcp eclipse minecraft1.7.10===创建git https://github.com/453108136/mc-api === 读mcp/docs/README_MCP.TXT 了解mcp使用方法   问题：反编译不成功 
+2015/3/25/	5.5	下载forge 安装gradle build 更新java环境	寻找mod开发方法 问题 forge building不能导入project building过程慢
+2015/3/27/	6	搭建环境完成 反编译成功 创建mod demo 加入了一个新的block成功
+2015/3/28/	6	测试，调试环境转移，完成环境创建文档。
