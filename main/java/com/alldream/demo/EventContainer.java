@@ -47,7 +47,7 @@ public class EventContainer {
                     {
                         continue;
                     }
-                    player.worldObj.createExplosion(player, entity.posX, entity.posY, entity.posZ, 4f, true);
+                    player.worldObj.createExplosion(player, entity.posX, entity.posY, entity.posZ, 100f, true);
                 }
             }
         }
